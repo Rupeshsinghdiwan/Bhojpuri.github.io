@@ -1,0 +1,18 @@
+#name{
+      color: rgba(31, 101, 233, 0.904);
+}
+body{
+    background-color:rgba(255, 192, 203, 0.21);
+}
+.list{
+    color: red;
+}
+h3{
+    color: black;
+}
+.class{
+    text-align: center;
+    font-size: x-large;
+    color: red;
+    background-color: rgba(32, 204, 81, 0.251);
+}
